@@ -1,0 +1,7 @@
+#Log files
+*.log
+#Environment files(if used).env
+
+#System files
+.DS_Store
+Thumbs.db
